@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACC,QAAS,CACT,SAAU,CACV,sBAAuB,CACrB,iDACH","file":"main.edb409a6.chunk.css","sourcesContent":["body {\n\tmargin: 0;\n\tpadding: 0;\n\tfont-family: sans-serif;\n  \tbackground: linear-gradient(to right, rgb(21, 181, 234), rgb(4, 60, 251));\n}"]}

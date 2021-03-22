@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Interactive-Robo-frnd/static/css/main.edb409a6.chunk.css",
+    "main.js": "/Interactive-Robo-frnd/static/js/main.51443f5d.chunk.js",
+    "main.js.map": "/Interactive-Robo-frnd/static/js/main.51443f5d.chunk.js.map",
+    "runtime-main.js": "/Interactive-Robo-frnd/static/js/runtime-main.ed1e2d5a.js",
+    "runtime-main.js.map": "/Interactive-Robo-frnd/static/js/runtime-main.ed1e2d5a.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Interactive-Robo-frnd/static/css/2.fe359a49.chunk.css",
+    "static/js/2.5debf56e.chunk.js": "/Interactive-Robo-frnd/static/js/2.5debf56e.chunk.js",
+    "static/js/2.5debf56e.chunk.js.map": "/Interactive-Robo-frnd/static/js/2.5debf56e.chunk.js.map",
+    "index.html": "/Interactive-Robo-frnd/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Interactive-Robo-frnd/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.edb409a6.chunk.css.map": "/Interactive-Robo-frnd/static/css/main.edb409a6.chunk.css.map",
+    "static/js/2.5debf56e.chunk.js.LICENSE.txt": "/Interactive-Robo-frnd/static/js/2.5debf56e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1e2d5a.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.5debf56e.chunk.js",
+    "static/css/main.edb409a6.chunk.css",
+    "static/js/main.51443f5d.chunk.js"
+  ]
+}
